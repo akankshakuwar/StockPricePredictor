@@ -107,10 +107,16 @@ Choose a date range for historical data.
 View the historical stock data and the model’s predictions for the next day.
 
 8. Screenshots:
-Login Screen: ![Screenshot 2025-03-18 144558](https://github.com/user-attachments/assets/7f051e58-d991-42cc-be96-bcf06b0c7aac)
+# Sign in/Login Screen:
+
+![Screenshot 2025-03-30 213906](https://github.com/user-attachments/assets/f64ceea3-fdae-4f3b-a691-1f1780a91159)
+
+![Screenshot 2025-03-18 144558](https://github.com/user-attachments/assets/7f051e58-d991-42cc-be96-bcf06b0c7aac)
 
 
-Stock Prediction: ![Screenshot 2025-03-18 144709](https://github.com/user-attachments/assets/e1920f44-a5c7-48bb-94a2-7dac1d801eb2)
+# Stock Prediction: 
+![Screenshot 2025-03-30 213851](https://github.com/user-attachments/assets/fa851efc-0903-4c48-898c-67633e1f2546)
+
 
 ![Screenshot 2025-03-18 144731](https://github.com/user-attachments/assets/24bb33d0-6920-4aaa-af41-5056002ed553)
 
